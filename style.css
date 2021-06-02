@@ -1,0 +1,46 @@
+body{
+    text-align:center;
+    background-image:linear-gradient(180deg,aqua,red);
+    background-repeat:no-repeat;
+}
+#ttracketimage{
+    width:200pxpx;
+    height:200px;
+    border-radius:15%;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin:25px auto;
+}
+h1{
+    text-shadow:4px 4px darkorange;
+    color:aquamarine;
+}
+p{
+    font-size:25px;
+    font-family:cursive;
+}
+#bla{
+    margin-top:275px;
+    background-color:aqua;
+}
+.menu{
+    list-style:none;
+    font-family:cursive;
+    float:center;
+    cursor:pointer;
+}
+.link{
+    display:inline;
+}
+#Name_of_my_Hobby{
+    font-family: 'Dosis', sans-serif;    
+}
+.link:hover{
+    background-color:red;
+}
+html{
+    scroll-behavior: smooth;
+}
